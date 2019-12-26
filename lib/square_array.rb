@@ -5,5 +5,5 @@ def square_array(array)
   new_array =  integer ** 2
 }
 
-new array
+new_array
  end
