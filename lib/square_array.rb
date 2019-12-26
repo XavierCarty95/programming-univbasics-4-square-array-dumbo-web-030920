@@ -1,9 +1,8 @@
-new_array = []
+
 
 def square_array(array)
- array.map  { |integer|
-  new_array << integer ** 2
-}
-
-new_array
+  counter = 0
+ while square_array[counter] do 
+    
+   
  end
