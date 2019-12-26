@@ -1,8 +1,9 @@
+new_array = []
+
 def square_array(array)
-
- 
-
  array.map  { |integer|
-   integer ** 2
+  new_array =  integer ** 2
 }
+
+new array
  end
