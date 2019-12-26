@@ -4,4 +4,5 @@ counter = 0
 number.each do |i|
 puts i * i
 
+ end
 end
