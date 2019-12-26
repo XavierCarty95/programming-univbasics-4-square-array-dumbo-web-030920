@@ -4,4 +4,5 @@ counter = 0
 while number[counter] do
   puts number[counter]
   counter += 1
+  end
  end
