@@ -1,8 +1,9 @@
 number = [1,2,3]
 def square_arrays(number)
 counter = 0
-while number[counter] do
-  puts number[counter]
-  counter += 1
+number.each { |i| 
+puts i * i 
+
+}
+  
   end
-end
